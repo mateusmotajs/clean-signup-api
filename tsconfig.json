@@ -12,7 +12,8 @@
     "outFile": "../../built/local/tsc.js",
     "outDir": "./dist",
     "rootDir": ".",
-    "noImplicitReturns": false
+    "noImplicitReturns": false,
+    "strictNullChecks": false
   },
   "include": ["src/**/*", "./jest.config.ts"],
   "exclude": ["node_modules", "dist"]
