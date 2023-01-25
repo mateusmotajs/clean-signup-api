@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@shelf/jest-mongodb": "^4.1.6",
+    "@shelf/jest-mongodb": "^3.0.2",
     "@types/bcrypt": "^5.0.0",
     "@types/jest": "^29.2.5",
     "@types/mongodb": "^4.0.7",
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
-    "mongodb": "^4.13.0",
+    "mongodb": "^4.8.0",
     "validator": "^13.7.0"
   }
 }
