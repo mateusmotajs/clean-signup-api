@@ -5,5 +5,5 @@ module.exports = {
   coverageDirectory: 'coverage',
   coverageProvider: 'babel',
   transform: { '.+\\.ts$': 'ts-jest' },
-  preset: '@shelf/jest-mongodb'
+  moduleDirectories: ['node_modules']
 }
